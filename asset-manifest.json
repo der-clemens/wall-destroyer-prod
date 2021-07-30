@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wall-destroyer-prod/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/wall-destroyer-prod/static/js/main.f1f0aba5.chunk.js",
+    "main.js.map": "/wall-destroyer-prod/static/js/main.f1f0aba5.chunk.js.map",
+    "runtime-main.js": "/wall-destroyer-prod/static/js/runtime-main.5eb7e8be.js",
+    "runtime-main.js.map": "/wall-destroyer-prod/static/js/runtime-main.5eb7e8be.js.map",
+    "static/js/2.0c5b687c.chunk.js": "/wall-destroyer-prod/static/js/2.0c5b687c.chunk.js",
+    "static/js/2.0c5b687c.chunk.js.map": "/wall-destroyer-prod/static/js/2.0c5b687c.chunk.js.map",
+    "static/js/3.4f84756a.chunk.js": "/wall-destroyer-prod/static/js/3.4f84756a.chunk.js",
+    "static/js/3.4f84756a.chunk.js.map": "/wall-destroyer-prod/static/js/3.4f84756a.chunk.js.map",
+    "index.html": "/wall-destroyer-prod/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/wall-destroyer-prod/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.0c5b687c.chunk.js.LICENSE.txt": "/wall-destroyer-prod/static/js/2.0c5b687c.chunk.js.LICENSE.txt",
+    "static/media/destroyWall.2891c68d.png": "/wall-destroyer-prod/static/media/destroyWall.2891c68d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb7e8be.js",
+    "static/js/2.0c5b687c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f1f0aba5.chunk.js"
+  ]
+}
