@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wall-destroyer-prod/static/css/main.23c1af38.chunk.css",
-    "main.js": "/wall-destroyer-prod/static/js/main.c89b44cf.chunk.js",
-    "main.js.map": "/wall-destroyer-prod/static/js/main.c89b44cf.chunk.js.map",
+    "main.js": "/wall-destroyer-prod/static/js/main.4c001273.chunk.js",
+    "main.js.map": "/wall-destroyer-prod/static/js/main.4c001273.chunk.js.map",
     "runtime-main.js": "/wall-destroyer-prod/static/js/runtime-main.7e34fc0b.js",
     "runtime-main.js.map": "/wall-destroyer-prod/static/js/runtime-main.7e34fc0b.js.map",
     "static/js/2.00519037.chunk.js": "/wall-destroyer-prod/static/js/2.00519037.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e34fc0b.js",
     "static/js/2.00519037.chunk.js",
     "static/css/main.23c1af38.chunk.css",
-    "static/js/main.c89b44cf.chunk.js"
+    "static/js/main.4c001273.chunk.js"
   ]
 }
