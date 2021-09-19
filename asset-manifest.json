@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/wall-destroyer-prod/static/css/main.23c1af38.chunk.css",
-    "main.js": "/wall-destroyer-prod/static/js/main.317fbbbe.chunk.js",
-    "main.js.map": "/wall-destroyer-prod/static/js/main.317fbbbe.chunk.js.map",
+    "main.js": "/wall-destroyer-prod/static/js/main.7b4a0673.chunk.js",
+    "main.js.map": "/wall-destroyer-prod/static/js/main.7b4a0673.chunk.js.map",
     "runtime-main.js": "/wall-destroyer-prod/static/js/runtime-main.7949fbf3.js",
     "runtime-main.js.map": "/wall-destroyer-prod/static/js/runtime-main.7949fbf3.js.map",
-    "static/js/2.a25460a3.chunk.js": "/wall-destroyer-prod/static/js/2.a25460a3.chunk.js",
-    "static/js/2.a25460a3.chunk.js.map": "/wall-destroyer-prod/static/js/2.a25460a3.chunk.js.map",
+    "static/js/2.8ef8e079.chunk.js": "/wall-destroyer-prod/static/js/2.8ef8e079.chunk.js",
+    "static/js/2.8ef8e079.chunk.js.map": "/wall-destroyer-prod/static/js/2.8ef8e079.chunk.js.map",
     "static/js/3.83dddc2c.chunk.js": "/wall-destroyer-prod/static/js/3.83dddc2c.chunk.js",
     "static/js/3.83dddc2c.chunk.js.map": "/wall-destroyer-prod/static/js/3.83dddc2c.chunk.js.map",
     "index.html": "/wall-destroyer-prod/index.html",
     "static/css/main.23c1af38.chunk.css.map": "/wall-destroyer-prod/static/css/main.23c1af38.chunk.css.map",
-    "static/js/2.a25460a3.chunk.js.LICENSE.txt": "/wall-destroyer-prod/static/js/2.a25460a3.chunk.js.LICENSE.txt",
+    "static/js/2.8ef8e079.chunk.js.LICENSE.txt": "/wall-destroyer-prod/static/js/2.8ef8e079.chunk.js.LICENSE.txt",
     "static/media/dollar.d1deb4a4.png": "/wall-destroyer-prod/static/media/dollar.d1deb4a4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7949fbf3.js",
-    "static/js/2.a25460a3.chunk.js",
+    "static/js/2.8ef8e079.chunk.js",
     "static/css/main.23c1af38.chunk.css",
-    "static/js/main.317fbbbe.chunk.js"
+    "static/js/main.7b4a0673.chunk.js"
   ]
 }
